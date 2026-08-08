@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-43m02k.cuansalam.cfd/sitemap.xml
